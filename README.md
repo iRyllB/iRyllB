@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iryllb&label=Profile%20views&color=2e739e&style=flat" alt="iryllb" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iryllb" alt="iryllb" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures, Computer Architecture**
 
 - 📫 How to reach me **pon.bryllbryan1@gmail.com**
