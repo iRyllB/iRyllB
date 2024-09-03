@@ -1,8 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Bryll</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iryllb&label=Profile%20views&color=2e739e&style=flat" alt="iryllb" /> </p>
-<img align="right" width="400" src="https://gifdb.com/images/high/raining-scene-peaky-blinders-thomas-shelby-es5irnqlym1d5d5t.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iryllb" alt="iryllb" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures, Computer Architecture**
