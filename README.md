@@ -2,7 +2,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=iryllb&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iryllb&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iryllb&theme=neon&hide_border=false)<br/>
 
 ![Codewars](https://github.r2v.ch/codewars?user=iRyllB&stroke=COLOR)
