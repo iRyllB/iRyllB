@@ -53,6 +53,33 @@
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
 
+  <!-- Connect4 Community Game -->
+  <div align="center">
+    <h3>🎲 Community Connect Four Game</h3>
+    <p style="font-size: 0.9em; color: #a1a1aa;">Click on a column number below to drop your disk!</p>
+
+    <!-- Connect4 Game Board -->
+    <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C1&body=Just+click+'Submit+new+issue'.+You+don't+need+to+change+the+title+or+body%21">
+      <img src="https://raw.githubusercontent.com/iryllb/iryllb/master/connect4/board.png" alt="Connect4 Board" style="max-width: 100%; border-radius: 6px; border: 1px solid #1f2330;" />
+    </a>
+
+    <br /><br />
+
+    <!-- Controls -->
+    <p>
+      <strong>Drop Disk:</strong> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C1&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[1]</a> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C2&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[2]</a> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C3&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[3]</a> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C4&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[4]</a> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C5&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[5]</a> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C6&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[6]</a> 
+      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C7&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[7]</a>
+    </p>
+  </div>
+
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
+
   <!-- GitHub Stats Section -->
   <h3 align="center">GitHub Statistics</h3>
 
@@ -75,6 +102,11 @@
     <a href="https://github.com/iryllb">
       <img src="https://github-readme-stats.vercel.app/api?username=iryllb&show_icons=true&locale=en&theme=gotham&bg_color=090a0f&border_color=1f2330&title_color=dc2626&text_color=d4d4d8&icon_color=dc2626" alt="GitHub Stats" />
     </a>
+  </p>
+
+  <!-- Profile Views Counter Badge -->
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=iryllb&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
