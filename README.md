@@ -1,15 +1,15 @@
-<div style="background-color:#090a0f; color:#d4d4d8; padding: 28px; border-radius: 12px; font-family: 'Fira Code', Consolas, Monaco, monospace; max-width: 800px; margin: auto; border: 1px solid #1f2330;">
+<div style="background-color:#090a0f; color:#d4d4d8; padding: 28px; border-radius: 12px; font-family: 'Fira Code', Consolas, Monaco, monospace; max-width: 850px; margin: auto; border: 1px solid #1f2330;">
 
   <!-- Header Banner -->
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=2000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=500&lines=iRyllB;Cybersecurity+%26+Development;Software+Developer" alt="Typing SVG Header" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=700&lines=iRyllB;Cybersecurity+%26+Development;Software+Developer" alt="Typing SVG Header" />
     </a>
   </h1>
 
   <!-- Header Visual -->
   <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" style="border-radius: 8px; border: 1px solid #3f0f13;" alt="Header Visual" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" style="border-radius: 8px; border: 1px solid #3f0f13; max-width: 100%;" alt="Header Visual" />
   </p>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
@@ -50,33 +50,6 @@
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   </p>
-
-  <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
-
-  <!-- Connect4 Community Game -->
-  <div align="center">
-    <h3>🎲 Community Connect Four Game</h3>
-    <p style="font-size: 0.9em; color: #a1a1aa;">Click on a column number below to drop your disk!</p>
-
-    <!-- Connect4 Game Board -->
-    <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C1&body=Just+click+'Submit+new+issue'.+You+don't+need+to+change+the+title+or+body%21">
-      <img src="https://raw.githubusercontent.com/iryllb/iryllb/master/connect4/board.png" alt="Connect4 Board" style="max-width: 100%; border-radius: 6px; border: 1px solid #1f2330;" />
-    </a>
-
-    <br /><br />
-
-    <!-- Controls -->
-    <p>
-      <strong>Drop Disk:</strong> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C1&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[1]</a> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C2&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[2]</a> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C3&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[3]</a> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C4&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[4]</a> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C5&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[5]</a> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C6&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[6]</a> 
-      <a href="https://github.com/iryllb/iryllb/issues/new?title=connect4%7Cdrop%7C7&body=Just+click+'Submit+new+issue'." style="color: #dc2626;">[7]</a>
-    </p>
-  </div>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
 
