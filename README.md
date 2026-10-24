@@ -7,9 +7,9 @@
     </a>
   </h1>
 
-  <!-- Header Visual -->
+  <!-- Header Visual GIF (Direct Root File) -->
   <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" style="border-radius: 8px; border: 1px solid #3f0f13; max-width: 100%;" alt="Header Visual" />
+    <img src="./24018.gif" style="border-radius: 8px; border: 1px solid #3f0f13; max-width: 100%;" alt="The Crow Header Visual" />
   </p>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
