@@ -1,5 +1,10 @@
 <div style="background-color:#090a0f; color:#d4d4d8; padding: 28px; border-radius: 12px; font-family: 'Fira Code', Consolas, Monaco, monospace; max-width: 850px; margin: auto; border: 1px solid #1f2330;">
 
+  <!-- Profile Views Counter Badge -->
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=iryllb&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+  
   <!-- Header Banner -->
   <h1 align="center">
     <a href="https://git.io/typing-svg">
@@ -75,11 +80,6 @@
     <a href="https://github.com/iryllb">
       <img src="https://github-readme-stats.vercel.app/api?username=iryllb&show_icons=true&locale=en&theme=gotham&bg_color=090a0f&border_color=1f2330&title_color=dc2626&text_color=d4d4d8&icon_color=dc2626" alt="GitHub Stats" />
     </a>
-  </p>
-
-  <!-- Profile Views Counter Badge -->
-  <p align="center" style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=iryllb&color=dc2626&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
