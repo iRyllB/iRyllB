@@ -3,21 +3,19 @@
   <!-- Header Banner -->
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=2000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=500&lines=iRyllB;Cybersecurity+%26+Development;Coding+in+the+Shadows" alt="Typing SVG Header" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=2000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=500&lines=iRyllB;Cybersecurity+%26+Development;Software+Developer" alt="Typing SVG Header" />
     </a>
   </h1>
 
-  <!-- Anime/Gothic GIF Banner -->
+  <!-- Header Visual -->
   <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" style="border-radius: 8px; border: 1px solid #3f0f13;" alt="Gothic Header Visual" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" style="border-radius: 8px; border: 1px solid #3f0f13;" alt="Header Visual" />
   </p>
 
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
 
   <!-- Cybersecurity & OS -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=350&lines=%E2%98%A3%EF%B8%8F+Cybersecurity+%26+OS" alt="Cybersecurity & OS" />
-  </h3>
+  <h3>Cybersecurity & Operating Systems</h3>
   <p>
     <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=target&logoColor=red" />
@@ -25,9 +23,7 @@
   </p>
 
   <!-- Languages -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=300&lines=%F0%9F%A9%B8+Languages" alt="Languages" />
-  </h3>
+  <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,9 +34,7 @@
   </p>
 
   <!-- Frameworks & Runtimes -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=350&lines=%E2%9A%94%EF%B8%8F+Frameworks+%26+Runtimes" alt="Frameworks & Runtimes" />
-  </h3>
+  <h3>Frameworks & Runtimes</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -49,9 +43,7 @@
   </p>
 
   <!-- Tools & Design -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=300&lines=%F0%9F%94%AE+Tools+%26+Design" alt="Tools & Design" />
-  </h3>
+  <h3>Tools & Design</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -62,9 +54,7 @@
   <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
 
   <!-- GitHub Stats Section -->
-  <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=450&lines=%F0%9F%A6%87+Dark+Realm+Metrics;Maintaining+The+Streak..." alt="Stats Header" />
-  </h3>
+  <h3 align="center">GitHub Statistics</h3>
 
   <table align="center" width="100%" style="border-collapse: collapse;">
     <tr>
