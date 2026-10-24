@@ -1,58 +1,90 @@
-<div style="background-color:#121212; color:#eee; padding: 24px; border-radius: 12px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: auto;">
+<div style="background-color:#090a0f; color:#d4d4d8; padding: 28px; border-radius: 12px; font-family: 'Fira Code', Consolas, Monaco, monospace; max-width: 800px; margin: auto; border: 1px solid #1f2330;">
 
+  <!-- Header Banner -->
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&duration=1001&pause=1000&color=F7E729&background=565DFF00&center=true&vCenter=true&random=true&width=435&lines=iRyllB" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=2000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=500&lines=iRyllB;Cybersecurity+%26+Development;Coding+in+the+Shadows" alt="Typing SVG Header" />
     </a>
   </h1>
 
+  <!-- Anime/Gothic GIF Banner -->
   <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgyYzFtdXFzY3Z2dnBkamsxYzhodXdwbjFraXV4bDdzODFpOHZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0nhsraJfprnYWt1Qx7/giphy.gif" style="border-radius: 8px; border: 1px solid #3f0f13;" alt="Gothic Header Visual" />
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&vCenter=true&random=true&width=435&lines=Skills+Sypashi)](https://git.io/typing-svg)
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
+
+  <!-- Cybersecurity & OS -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=350&lines=%E2%98%A3%EF%B8%8F+Cybersecurity+%26+OS" alt="Cybersecurity & OS" />
+  </h3>
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=target&logoColor=red" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 
+  <!-- Languages -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=300&lines=%F0%9F%A9%B8+Languages" alt="Languages" />
+  </h3>
   <p>
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
-  
+
+  <!-- Frameworks & Runtimes -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=350&lines=%E2%9A%94%EF%B8%8F+Frameworks+%26+Runtimes" alt="Frameworks & Runtimes" />
+  </h3>
   <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&vCenter=true&random=true&width=435&lines=Stats+(trying+to+maintain+streak))](https://git.io/typing-svg)
+  <!-- Tools & Design -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1000&color=DC2626&background=00000000&width=300&lines=%F0%9F%94%AE+Tools+%26+Design" alt="Tools & Design" />
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  </p>
 
-  <table align="center" width="100%">
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, #090a0f, #dc2626, #090a0f); margin: 25px 0;" />
+
+  <!-- GitHub Stats Section -->
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=450&lines=%F0%9F%A6%87+Dark+Realm+Metrics;Maintaining+The+Streak..." alt="Stats Header" />
+  </h3>
+
+  <table align="center" width="100%" style="border-collapse: collapse;">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 5px;">
         <a href="https://github.com/iryllb">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=iryllb&theme=dark" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=iryllb&theme=gotham&bg_color=090a0f&border=1f2330&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626" alt="GitHub Streak" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 5px;">
         <a href="https://github.com/iryllb">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iryllb&layout=compact&theme=dark" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iryllb&layout=compact&theme=gotham&bg_color=090a0f&border_color=1f2330&title_color=dc2626&text_color=d4d4d8" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
 
-  <p align="center">
+  <p align="center" style="margin-top: 10px;">
     <a href="https://github.com/iryllb">
-      <img src="https://github-readme-stats.vercel.app/api?username=iryllb&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=iryllb&show_icons=true&locale=en&theme=gotham&bg_color=090a0f&border_color=1f2330&title_color=dc2626&text_color=d4d4d8&icon_color=dc2626" alt="GitHub Stats" />
     </a>
   </p>
+
+</div>
